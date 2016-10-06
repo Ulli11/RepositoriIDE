@@ -20,7 +20,7 @@ public class app {
         Pastor pastor = new Pastor();
         pastor.ompleCamio(new CamioVaques(PES), vaques);
         System.out.println(pastor.getResultat());
-        System.out.println("Holaaaa");
+        System.out.println("Holaaaaa");
     }
 
 }
