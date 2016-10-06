@@ -21,6 +21,7 @@ public class app {
         pastor.ompleCamio(new CamioVaques(PES), vaques);
         System.out.println(pastor.getResultat());
         System.out.println("Holaaaaa");
+	System.out.println("Adeeeeu");
     }
 
 }
