@@ -22,6 +22,7 @@ public class app {
         System.out.println(pastor.getResultat());
         System.out.println("Holaaaaa");
 	System.out.println("Adeeeeu");
+	System.out.println("Un altre comentari")
     }
 
 }
